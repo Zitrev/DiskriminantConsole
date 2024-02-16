@@ -1,0 +1,14 @@
+D:\Коледж\Кіриченко В.В Шарпи\DiskriminantConsole\DiskriminantConsole\bin\Debug\net6.0\DiskriminantConsole.exe
+D:\Коледж\Кіриченко В.В Шарпи\DiskriminantConsole\DiskriminantConsole\bin\Debug\net6.0\DiskriminantConsole.deps.json
+D:\Коледж\Кіриченко В.В Шарпи\DiskriminantConsole\DiskriminantConsole\bin\Debug\net6.0\DiskriminantConsole.runtimeconfig.json
+D:\Коледж\Кіриченко В.В Шарпи\DiskriminantConsole\DiskriminantConsole\bin\Debug\net6.0\DiskriminantConsole.dll
+D:\Коледж\Кіриченко В.В Шарпи\DiskriminantConsole\DiskriminantConsole\bin\Debug\net6.0\DiskriminantConsole.pdb
+D:\Коледж\Кіриченко В.В Шарпи\DiskriminantConsole\DiskriminantConsole\obj\Debug\net6.0\DiskriminantConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\Коледж\Кіриченко В.В Шарпи\DiskriminantConsole\DiskriminantConsole\obj\Debug\net6.0\DiskriminantConsole.AssemblyInfoInputs.cache
+D:\Коледж\Кіриченко В.В Шарпи\DiskriminantConsole\DiskriminantConsole\obj\Debug\net6.0\DiskriminantConsole.AssemblyInfo.cs
+D:\Коледж\Кіриченко В.В Шарпи\DiskriminantConsole\DiskriminantConsole\obj\Debug\net6.0\DiskriminantConsole.csproj.CoreCompileInputs.cache
+D:\Коледж\Кіриченко В.В Шарпи\DiskriminantConsole\DiskriminantConsole\obj\Debug\net6.0\DiskriminantConsole.dll
+D:\Коледж\Кіриченко В.В Шарпи\DiskriminantConsole\DiskriminantConsole\obj\Debug\net6.0\refint\DiskriminantConsole.dll
+D:\Коледж\Кіриченко В.В Шарпи\DiskriminantConsole\DiskriminantConsole\obj\Debug\net6.0\DiskriminantConsole.pdb
+D:\Коледж\Кіриченко В.В Шарпи\DiskriminantConsole\DiskriminantConsole\obj\Debug\net6.0\DiskriminantConsole.genruntimeconfig.cache
+D:\Коледж\Кіриченко В.В Шарпи\DiskriminantConsole\DiskriminantConsole\obj\Debug\net6.0\ref\DiskriminantConsole.dll
